@@ -1,0 +1,21 @@
+.RickAndMorty-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .RickAndMorty-Pic {
+    background-color: black; 
+    color: white; 
+    padding: 10px;
+    border-radius: 8px; 
+    text-align: center; 
+    width: 200px; 
+}
+
+.RickAndMorty-image {
+    width: 100%;
+    border-radius: 4px;
+}
+
